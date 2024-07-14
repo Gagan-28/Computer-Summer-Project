@@ -1,0 +1,106 @@
+.navbar-inverse
+{
+    background-color: green;
+    font-size: 20px;
+    height: 55px;
+    
+}
+
+h1
+{
+    color: rgb(255, 136, 0);
+
+}
+
+#first_part
+{
+    width: 92.5%;
+    background-color: lightblue;
+    border-radius: 20px;
+    border-color: blue;
+    border-style:ridge;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#p1
+{
+    color: rgb(124, 122, 6);
+    font-size: 20px;
+}
+
+#moving_text
+{
+    background-color: rgb(59, 95, 255);
+    height: 35px;
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#second_part
+{
+    width : 90%;
+    background-color: rgb(226, 250, 255);
+    border-style:groove;
+}
+
+#spr
+{
+    cursor:default;
+    height: 125px;
+    width: 350px;
+    text-align: left;
+    
+}
+
+h5
+{
+    font-family:cursive;
+    font-size: 25px;
+}
+
+#visit1
+{
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+}
+
+#row
+{
+    padding-left: 20px;
+}
+
+body
+{
+    background-image:url("https://www.tourmyindia.com/blog//wp-content/uploads/2019/11/Marvel-at-the-Beautiful-Landscape-Northeast.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+#fourth_part
+{
+    text-align: left;
+    background-color: antiquewhite;
+    width: 90%;
+    border-style: ridge;
+}
+
+#fifth_part
+{
+    text-align: left;
+    background-color: rgb(43, 88, 211);
+    color: whitesmoke;
+}
+
+#query_text
+{
+    color: whitesmoke;
+    padding-left: 30px;
+}
+
+h4
+{
+    padding-left: 30px;
+}
